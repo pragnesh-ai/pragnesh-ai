@@ -8,18 +8,25 @@
 # About me
 Passionate Machine learning professional and data-driven analyst with the ability to apply ML techniques and leverage algorithms to solve real-world business problems.
 
-# TECHNICAL SKILLS
-ML Algorithms || Predictive Analysis || Deep learning ||  Data Visualization || Data Analytics || Data Mining || IOT Programing || AZure DevOps   
-Programming Languages: Python,Embedded C ,R,HTML,Terraform,yaml
-Frameworks:Opencv,Scikit-Learn,tensorflow,Keras,pytorch,Pandas,Apache-Kafka,Matplotlib,Airflow
-AutoML-H2o,Mlflow,MLops,Driverlessai
-Visualization Tool/Web Technologies: Dash , Matplotlib , MapBox,HTML,css,selenium
-Database: Redis,MySQl, MSSQl,PostgreSQL,DEEP
-Cloud Technologies: Azure,kubernetes,DataBricks
-Controller/processor: Linkit duo/ Linkit(Mediatech),Arduino,Raspberry pi,ESP32,STM32 
-Protocols:ftp,MQTT,UART,GATT,GAP,SPI,I2C , Modbus  
+### TECHNICAL SKILLS
+ML Algorithms || Predictive Analysis || Deep learning ||  Data Visualization || Data Analytics || Data Mining || IOT Programing || AZure DevOps
 
-# Technologies used
+Programming Languages: Python,Embedded C ,R,HTML,Terraform,yaml
+
+Frameworks:Opencv,Scikit-Learn,tensorflow,Keras,pytorch,Pandas,Apache-Kafka,Matplotlib,Airflow
+
+AutoML-H2o,Mlflow,MLops,Driverlessai
+
+Visualization Tool/Web Technologies: Dash , Matplotlib , MapBox,HTML,css,selenium
+
+Database: Redis,MySQl, MSSQl,PostgreSQL,DEEP
+
+Cloud Technologies: Azure,kubernetes,DataBricks
+
+Controller/processor: Linkit duo/ Linkit(Mediatech),Arduino,Raspberry pi,ESP32,STM32 
+
+Protocols:ftp,MQTT,UART,GATT,GAP,SPI,I2C , Modbus
+
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
