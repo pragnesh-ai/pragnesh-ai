@@ -1,12 +1,23 @@
 # Hello :wave:, I am Pragnesh 😃 
-- Ai Resercher:
-- By Profession data scientist ::
-- IOT - for all 
+- Ai Researcher:
+- By Profession Senior Data Scientist ::
+- Experience in IOT
 - A pythonista 🐍
-- A full time Selenophile :rocket: :milky_way:
+- A full time Selenophile:
 
 # About me
+Passionate Machine learning professional and data-driven analyst with the ability to apply ML techniques and leverage algorithms to solve real-world business problems.
 
+# TECHNICAL SKILLS
+ML Algorithms || Predictive Analysis || Deep learning ||  Data Visualization || Data Analytics || Data Mining || IOT Programing || AZure DevOps   
+Programming Languages: Python,Embedded C ,R,HTML,Terraform,yaml
+Frameworks:Opencv,Scikit-Learn,tensorflow,Keras,pytorch,Pandas,Apache-Kafka,Matplotlib,Airflow
+AutoML-H2o,Mlflow,MLops,Driverlessai
+Visualization Tool/Web Technologies: Dash , Matplotlib , MapBox,HTML,css,selenium
+Database: Redis,MySQl, MSSQl,PostgreSQL,DEEP
+Cloud Technologies: Azure,kubernetes,DataBricks
+Controller/processor: Linkit duo/ Linkit(Mediatech),Arduino,Raspberry pi,ESP32,STM32 
+Protocols:ftp,MQTT,UART,GATT,GAP,SPI,I2C , Modbus  
 
 # Technologies used
 
