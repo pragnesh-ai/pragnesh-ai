@@ -40,12 +40,11 @@ Protocols:ftp,MQTT,UART,GATT,GAP,SPI,I2C , Modbus
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/180px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
-<code><img height="80" width="80" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg"></code>
+<code><img height="40" width="80" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/220px-Microsoft_Azure_Logo.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/84px-Kubernetes_logo_without_workmark.svg.png"></code>
 <code><img height="40" width="40" src="https://mlflow.org/images/MLflow-logo-final-white-TM.png"></code>
-
 <code><img height="40" width="40" src="https://spark.apache.org/images/spark-logo-trademark.png"></code>
 
 
