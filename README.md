@@ -11,24 +11,36 @@ https://medium.com/@pragnesh.nprajapati
 ### TECHNICAL SKILLS
 ● Proficient in Azure and AWS cloud infrastructure with experience in deploying ML workloads via
 Azure Kubernetes Service (AKS) and Amazon Elastic Kubernetes Service (EKS).
+
 ● Extensive integration experience with H2O products and cloud services, including Azure DevOps,
 Azure Container Registry (ACR), Amazon Machine Image (AMI), Amazon EC2, and Amazon
 SageMaker.
+
 ● Knowledgeable in cloud-based data processing and storage solutions, with expertise in
 Databricks' Spark cluster, Azure Blob Storage, and Amazon S3.
+
 ● Skilled in managing the ML software development lifecycle in cloud environments, utilizing Azure
 DevOps and AWS services for source control and CI/CD.
+
 ● Proficient in ML algorithms, predictive analysis, deep learning, data visualization, and data
 analytics.
+
 ● Experience with Python, R, HTML, Terraform, YAML, and PySpark programming languages.
+
 ● Familiarity with frameworks such as OpenCV, long-chain,llama3,BERT , trasformers, vectordb,
 Scikit-Learn, TensorFlow, Keras, PyTorch, Pandas, H2O, MLflow, MLops, Apache Kafka, matplotlib,
 and Airflow.
+
 ● Proficient in visualization tools like Dash, Matplotlib, Plotly, Seaborn, MapBox, and HTML.
+
 ● Knowledgeable in databases including Redis, MySQL, MSSQL, PostgreSQL, and DEEP.
+
 ● Experienced in cloud technologies including Azure, Kubernetes, Databricks, AWS, GitHub
 workflow, and Google Cloud Platform (GCP).
+
+
 ● Currently expanding expertise in quantum machine learning with Qiskit
+
 
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"></code>
